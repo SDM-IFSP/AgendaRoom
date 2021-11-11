@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendaRoom</string>
+    <string name="nome"> NOME: </string>
+    <string name="fone"> TELEFONE: </string>
+    <string name="email"> EMAIL: </string>
+    <string name="salvar"> Salvar </string>
+    <string name="excluir"> Excluir </string>
+    <string name="buscar"> Buscar </string>
+</resources>
